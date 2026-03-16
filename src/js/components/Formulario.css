@@ -1,0 +1,8 @@
+.list-group-item i {
+  visibility: hidden;       
+}
+
+.list-group-item:hover i {
+  visibility: visible;
+  cursor: pointer;
+}
